@@ -1,0 +1,29 @@
+h1 {
+    padding: 25px;
+    border: 4px double black;
+    border-radius: 5px;
+    font-family: 'Sofia', cursive;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+h2 {
+    font-family: 'Sofia', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+img {
+        position: absolute;
+        right: 0px;
+        width: 175px;
+        padding: 10px;
+      }
